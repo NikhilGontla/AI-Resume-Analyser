@@ -20,5 +20,5 @@ Analyze resumes using AI! Upload a resume PDF and job description to get a match
 4. Done! 🎉
 
 ## 📧 Author
-Vukanti Purna Chandra  
-vukantipurnachandra@gmail.com
+GONTLA VENKATA SIVA SAI NIKHIL
+gontlanikhil223@gmail.com
